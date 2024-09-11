@@ -1,5 +1,5 @@
 # The URL the site will be built for
-base_url = "https://fays.al"
+base_url = "https://zola-site.pages.dev"
 
 # Whether to automatically compile all Sass files in the sass directory
 compile_sass = true
